@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500"
+   height="500"
+   viewBox="0 0 132.29166 132.29167"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="hmath.logo.2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="1.4324916"
+     inkscape:cx="479.58396"
+     inkscape:cy="220.24562"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="never"
+       id="linearGradient10468">
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0"
+         id="stop10464" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:0;"
+         offset="1"
+         id="stop10466" />
+    </linearGradient>
+    <linearGradient
+       id="hmath_logo">
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="0"
+         id="stop4892" />
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="0.5"
+         id="stop4894" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0.5"
+         id="stop4896" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0.99748111"
+         id="stop4898" />
+    </linearGradient>
+    <linearGradient
+       id="hmath_logo-9">
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="0"
+         id="stop2207" />
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="0.5"
+         id="stop2215" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0.5"
+         id="stop2213" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0.99748111"
+         id="stop2205" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#hmath_logo"
+       id="linearGradient10470"
+       x1="117.94579"
+       y1="-7.1875648"
+       x2="152.95435"
+       y2="-21.239975"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="rotate(-145.90835,-3.0496797e-7,-3.5961453e-6)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       aria-label="14"
+       transform="scale(0.70831061,1.41181)"
+       id="text12028"
+       style="font-size:78.2221px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffff00;stroke-width:125.086">
+      <path
+         d="m 132.68738,93.703568 h -6.87499 V 49.894609 q -2.48263,2.368051 -6.53124,4.736103 -4.01041,2.368052 -7.21874,3.552078 v -6.645823 q 5.76736,-2.711801 10.08332,-6.569434 4.31597,-3.857633 6.1111,-7.486099 h 4.43055 z"
+         style="fill:#0000ff"
+         id="path253" />
+      <path
+         d="M 172.33315,93.703568 V 80.297339 H 148.04152 V 73.995265 L 173.59357,37.7106 h 5.61457 v 36.284665 h 7.56249 v 6.302074 h -7.56249 v 13.406229 z m 0,-19.708303 V 48.748777 l -17.53122,25.246488 z"
+         id="path255" />
+    </g>
+  </g>
+</svg>

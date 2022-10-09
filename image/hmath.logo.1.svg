@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500"
+   height="500"
+   viewBox="0 0 132.29166 132.29167"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="hmath.logo.1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="1.4324916"
+     inkscape:cx="479.58396"
+     inkscape:cy="220.24562"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="never"
+       id="linearGradient10468">
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0"
+         id="stop10464" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:0;"
+         offset="1"
+         id="stop10466" />
+    </linearGradient>
+    <linearGradient
+       id="hmath_logo">
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="0"
+         id="stop4892" />
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="0.5"
+         id="stop4894" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0.5"
+         id="stop4896" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0.99748111"
+         id="stop4898" />
+    </linearGradient>
+    <linearGradient
+       id="hmath_logo-9">
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="0"
+         id="stop2207" />
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="0.5"
+         id="stop2215" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0.5"
+         id="stop2213" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0.99748111"
+         id="stop2205" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#hmath_logo"
+       id="linearGradient10470"
+       x1="117.94579"
+       y1="-7.1875648"
+       x2="152.95435"
+       y2="-21.239975"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="rotate(-145.90835,-3.0496797e-7,-3.5961453e-6)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       aria-label="3"
+       transform="scale(0.88329387,1.132126)"
+       id="text113"
+       style="font-size:159.756px;font-family:'BIZ UDMincho';-inkscape-font-specification:'BIZ UDMincho';fill:#ffff00;stroke-width:255.466">
+      <path
+         d="M 2.3886561e-5,84.635944 14.041078,82.763804 q 2.418182,11.934896 8.190615,17.239296 5.85044,5.22639 14.197066,5.22639 9.906744,0 16.693254,-6.864515 6.864516,-6.864515 6.864516,-17.005277 0,-9.672726 -6.318475,-15.913195 -6.318474,-6.318474 -16.069207,-6.318474 -3.978298,0 -9.906744,1.560117 L 29.252221,48.36322 q 1.404105,0.156012 2.262169,0.156012 8.970674,0 16.147213,-4.680351 7.176539,-4.680352 7.176539,-14.431084 0,-7.72258 -5.226393,-12.792961 -5.226392,-5.070381 -13.495013,-5.070381 -8.190615,0 -13.651025,5.148387 -5.46041,5.148387 -7.020527,15.44516 L 1.4041293,29.641814 Q 3.9783226,15.522754 13.105008,7.8001743 22.231693,-4.1151047e-4 35.804713,-4.1151047e-4 q 9.360703,0 17.239294,4.05630461047 7.878592,3.9782987 12.012902,10.9208199 4.212317,6.942522 4.212317,14.743107 0,7.410557 -3.978299,13.495014 -3.978299,6.084457 -11.778885,9.672726 10.140762,2.340176 15.757184,9.750732 5.616421,7.332551 5.616421,18.409383 0,14.977124 -10.92082,25.429905 -10.92082,10.37478 -27.614073,10.37478 -15.055131,0 -25.039881,-8.97067 Q 1.4041293,98.911016 2.3886561e-5,84.635944 Z"
+         style="font-family:Arial;-inkscape-font-specification:Arial"
+         id="path258" />
+    </g>
+  </g>
+</svg>
