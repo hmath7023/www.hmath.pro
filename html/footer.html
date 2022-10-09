@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body {
+                margin:0;
+                padding:0;
+                overflow: hidden
+            }
+            img#caleb7023{
+                width: 10%;
+                margin: 20px;
+            }
+            p#explanation{
+                color: #aaa;
+                font-size: 15px;
+                line-height: 10px;
+            }
+            #left_img {
+                display: flex;
+                position: absolute;
+                left: 0;
+                vertical-align: middle;
+            }
+            #right {
+                display: flex;
+                position: absolute;
+                left: calc(10% + 40px);
+                width: 100%;
+                vertical-align: middle;
+            }
+            footer{
+                background-color: #000;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100px;
+            }
+            div#Other_services{
+                position: absolute;
+                height: 60px;
+                background-color: white;
+                bottom: -50px;
+                width: calc(100% - 200px);
+            }
+            #Other_services_p{
+                position: absolute;
+                left: 30px;
+            }
+            a{
+                position: absolute;
+                filter: drop-shadow(0px 0px 3px #000);
+                left: 200px;
+            }
+            button{
+                background-color: #000;
+                border-radius: 10px;
+                color: #fff;
+                left: 200px;
+                height: 50px;
+            }
+            #button1{
+                top: 5px;
+            }
+        </style>
+    </head>
+    <body>
+        <footer>
+            <div>
+                <div id="left_img">
+                    <img id="caleb7023" src="../image/caleb7023_HD.png">
+                </div>
+                <div id="right">
+                    <p id="explanation">This site is powered by caleb7023.</p>
+                    <div id="Other_services">
+                        <p id="Other_services_p">Other services</p>
+                        <a href="https://talk.hmath.pro" id="button1" target="_top"><button>talk.hmath.pro(!In development)</button></a>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </body>
+</html>
